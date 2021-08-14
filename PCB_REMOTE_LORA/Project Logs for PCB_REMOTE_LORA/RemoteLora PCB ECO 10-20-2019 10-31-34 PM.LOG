@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=M0 Pin=A1-5
+Removed Pin From Net: NetName=M1 Pin=A1-6
+Added Pin To Net: NetName=M1 Pin=A1-5
+Added Pin To Net: NetName=M0 Pin=A1-6
+Added Room: Name=RemoteLora

@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=J1 Old Footprint=KF2-5.08 New Footprint=KF2-3.5
+Added Pin To Net: NetName=UP Pin=A1-18
+Added Pin To Net: NetName=DOWN Pin=A1-19
+Added Pin To Net: NetName=ROLL Pin=A1-20
+Added Member To Class: ClassName=RemoteLora Member=Component C1 100uF/35V
+Added Member To Class: ClassName=RemoteLora Member=Component R1 1k
+Added Room: Name=RemoteLora

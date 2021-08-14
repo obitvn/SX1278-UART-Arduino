@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetA1_7 Pin=M1-1
+Removed Pin From Net: NetName=NetA1_5 Pin=M1-3
+Change Component Footprint: Designator=JDC1 Old Footprint=DC0 New Footprint=CUI PJ-014D
+Change Component Footprint: Designator=LED1 Old Footprint=LED-5-BLUE New Footprint=LED-3
+Change Component Footprint: Designator=R1 Old Footprint=RES-SMD-0805 New Footprint=RES-1/4W
+Added Pin To Net: NetName=NetA1_5 Pin=M1-1
+Added Pin To Net: NetName=NetA1_7 Pin=M1-3
+Added Room: Name=LoraThu
